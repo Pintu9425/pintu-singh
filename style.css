@@ -1,0 +1,42 @@
+*{
+ padding: 0;
+ margin: 0;  
+ background-color:pink; 
+}
+.profile_pic{
+margin-left: 40vw;
+
+border-radius: 20vw;
+height: 300px;
+width: 250px;
+}
+h1{
+margin-left: 42vw;
+}
+.click{
+    margin-left: 52vw;
+    background-color: aqua;
+}
+h2{
+    margin-left:15vw;
+}
+ul{
+    margin-left:20vw;
+}
+h2{
+    margin-left:15vw;
+}
+h2{
+    margin-left:15vw;
+}
+h2{
+    margin-left:15vw;
+}
+h2{
+    margin-left:15vw;
+}
+.table_{
+    margin-left:25vw;
+    height: 150px;
+    width: 600px;
+}
